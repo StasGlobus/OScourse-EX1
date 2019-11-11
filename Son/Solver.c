@@ -7,7 +7,7 @@
 int main()//int argc, char *argv[])
 {
 	int a = 0;
-	char test[32] = { "((1+3)*(4+(10+5)))" };
+	char test1[32] = { "1+3" }, test2[32] = { "22*5" };
 	printf("this is a %d\n", a);
 	/*
 	if (argc < 2)
