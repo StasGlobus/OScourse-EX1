@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
 		result = num1 + num2;
 	}
 	printf("the result is %ld\n", result);// delete this later
-	getchar();
+	//getchar();
 	
 	return result;
 }

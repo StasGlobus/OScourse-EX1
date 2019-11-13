@@ -6,6 +6,7 @@
 #include <stdlib.h>
 #include <process.h>
 #include <windows.h>
+#include <tchar.h>
 
 #define TIMEOUT_IN_MILLISECONDS 5000
 #define BRUTAL_TERMINATION_CODE 0x55
