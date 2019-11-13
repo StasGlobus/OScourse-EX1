@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Solver.c">
+    <ClCompile Include="main11.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
