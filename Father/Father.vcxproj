@@ -117,6 +117,14 @@
   <ItemGroup>
     <ClCompile Include="main22.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Son\Son.vcxproj">
+      <Project>{bae25550-aa3f-458a-9ee7-602a9cd51ba2}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main22.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
