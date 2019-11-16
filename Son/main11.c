@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
 	else if (p_op[0] == '+') {
 		result = num1 + num2;
 	}
-	printf("the result is %ld\n", result);// delete this later
+	//printf("the result is %ld\n", result);// delete this later
 	//getchar();
 	
 	return result;
